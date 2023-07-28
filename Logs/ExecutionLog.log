@@ -1,0 +1,217 @@
+2023-07-20 14:52:35,071 - 11_March_Maven -INFO - Open browser
+2023-07-20 14:52:35,206 - 11_March_Maven -INFO - maximize browser 
+2023-07-20 14:52:37,184 - 11_March_Maven -INFO - Open Application
+2023-07-20 14:58:15,414 - 11_March_Maven -INFO - Open browser
+2023-07-20 14:58:15,542 - 11_March_Maven -INFO - maximize browser 
+2023-07-20 14:58:17,015 - 11_March_Maven -INFO - Open Application
+2023-07-20 15:07:10,921 - 11_March_Maven -INFO - Open browser
+2023-07-20 15:07:11,053 - 11_March_Maven -INFO - maximize browser 
+2023-07-20 15:07:12,482 - 11_March_Maven -INFO - Open Application
+2023-07-20 15:09:37,913 - 11_March_Maven -INFO - Open browser
+2023-07-20 15:09:38,047 - 11_March_Maven -INFO - maximize browser 
+2023-07-20 15:09:48,804 - 11_March_Maven -INFO - Open Application
+2023-07-20 15:09:50,138 - 11_March_Maven -INFO - Click on register
+2023-07-20 15:09:50,217 - 11_March_Maven -INFO - Select gender
+2023-07-20 15:09:50,287 - 11_March_Maven -INFO - First Name
+2023-07-20 15:09:50,381 - 11_March_Maven -INFO - LAst Name
+2023-07-20 15:09:50,626 - 11_March_Maven -INFO - Select Day
+2023-07-20 15:09:50,876 - 11_March_Maven -INFO - Select Months
+2023-07-20 15:09:51,158 - 11_March_Maven -INFO - Select Year
+2023-07-20 15:09:51,383 - 11_March_Maven -INFO - Set Password
+2023-07-20 15:09:51,462 - 11_March_Maven -INFO - confirm Password
+2023-07-20 15:09:55,142 - 11_March_Maven -INFO - Button
+2023-07-21 15:20:03,601 - 11_March_Maven -INFO - Open browser
+2023-07-21 15:20:03,735 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 15:20:06,445 - 11_March_Maven -INFO - Open Application
+2023-07-21 15:23:16,956 - 11_March_Maven -INFO - Open browser
+2023-07-21 15:23:17,102 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 15:23:19,031 - 11_March_Maven -INFO - Open Application
+2023-07-21 15:48:31,812 - 11_March_Maven -INFO - Open browser
+2023-07-21 15:48:31,941 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 15:48:34,671 - 11_March_Maven -INFO - Open Application
+2023-07-21 16:15:01,107 - 11_March_Maven -INFO - Open browser
+2023-07-21 16:15:01,238 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 16:15:04,389 - 11_March_Maven -INFO - Open Application
+2023-07-21 22:42:56,309 - 11_March_Maven -INFO - Open browser
+2023-07-21 22:42:56,452 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 22:43:07,485 - 11_March_Maven -INFO - Open Application
+2023-07-21 22:59:15,331 - 11_March_Maven -INFO - Open browser
+2023-07-21 22:59:15,469 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 22:59:18,491 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:04:23,531 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:04:23,672 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:04:29,704 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:07:33,699 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:07:33,831 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:07:49,314 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:08:54,871 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:08:55,008 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:08:59,058 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:15:03,056 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:15:03,183 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:15:05,033 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:51:40,603 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:51:40,762 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:51:43,462 - 11_March_Maven -INFO - Open Application
+2023-07-21 23:54:46,998 - 11_March_Maven -INFO - Open browser
+2023-07-21 23:54:47,143 - 11_March_Maven -INFO - maximize browser 
+2023-07-21 23:54:55,418 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:01:32,054 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:01:32,193 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:01:37,300 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:01:37,933 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:01:38,070 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:01:38,192 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:06:47,809 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:06:47,949 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:06:50,703 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:06:51,429 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:06:51,544 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:06:51,634 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:08:37,407 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:08:37,709 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:08:40,508 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:08:41,308 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:08:41,364 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:08:41,406 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:11:10,501 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:11:10,785 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:11:12,685 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:11:14,063 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:11:14,105 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:11:14,143 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:15:07,634 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:15:07,774 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:15:09,277 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:15:11,004 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:15:11,123 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:15:11,222 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:17:38,415 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:17:38,562 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:17:40,239 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:17:41,724 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:17:41,840 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:17:41,926 - 11_March_Maven -INFO - Password entered
+2023-07-22 00:18:38,842 - 11_March_Maven -INFO - Open browser
+2023-07-22 00:18:38,970 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 00:18:39,757 - 11_March_Maven -INFO - Open Application
+2023-07-22 00:18:41,158 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 00:18:41,266 - 11_March_Maven -INFO - Username entered
+2023-07-22 00:18:41,354 - 11_March_Maven -INFO - Password entered
+2023-07-22 14:26:11,177 - 11_March_Maven -INFO - Open browser
+2023-07-22 14:26:11,337 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 14:26:12,350 - 11_March_Maven -INFO - Open Application
+2023-07-22 14:26:13,826 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 14:26:13,980 - 11_March_Maven -INFO - Username entered
+2023-07-22 14:26:14,192 - 11_March_Maven -INFO - Password entered
+2023-07-22 16:12:33,336 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:12:33,463 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:12:35,621 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:14:37,910 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:14:38,031 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:14:39,842 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:18:43,656 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:18:43,792 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:18:45,814 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:24:53,317 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:24:53,443 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:24:55,512 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:31:03,746 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:31:03,872 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:31:05,928 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:37:34,366 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:37:34,509 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:37:37,648 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:45:37,069 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:45:37,212 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:45:39,343 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:49:54,536 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:49:54,678 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:49:56,908 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:50:30,182 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:50:30,326 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:50:32,703 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:55:35,921 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:55:36,065 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:55:38,796 - 11_March_Maven -INFO - Open Application
+2023-07-22 16:59:06,861 - 11_March_Maven -INFO - Open browser
+2023-07-22 16:59:06,995 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 16:59:09,937 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:02:52,175 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:02:52,317 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:02:54,508 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:03:29,268 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:03:29,554 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:03:32,740 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:13:44,998 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:13:45,138 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:13:46,734 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:20:03,247 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:20:03,393 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:20:05,046 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:26:58,094 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:26:58,251 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:27:00,685 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:27:02,856 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 17:27:03,008 - 11_March_Maven -INFO - Username entered
+2023-07-22 17:27:03,166 - 11_March_Maven -INFO - Password entered
+2023-07-22 17:27:35,084 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:27:35,233 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:27:36,741 - 11_March_Maven -INFO - Open Application
+2023-07-22 17:27:38,070 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 17:27:38,197 - 11_March_Maven -INFO - Username entered
+2023-07-22 17:27:38,288 - 11_March_Maven -INFO - Password entered
+2023-07-22 17:28:55,054 - 11_March_Maven -INFO - Open browser
+2023-07-22 17:28:55,187 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 17:28:56,690 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:20:28,894 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:20:29,039 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:20:30,710 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:20:33,281 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 20:20:33,406 - 11_March_Maven -INFO - Username entered
+2023-07-22 20:20:33,506 - 11_March_Maven -INFO - Password entered
+2023-07-22 20:20:34,725 - 11_March_Maven -INFO - Click on the Login button
+2023-07-22 20:22:11,919 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:22:12,062 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:22:13,339 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:22:14,681 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 20:22:14,786 - 11_March_Maven -INFO - Username entered
+2023-07-22 20:22:14,877 - 11_March_Maven -INFO - Password entered
+2023-07-22 20:29:49,264 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:29:49,410 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:29:50,927 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:29:53,234 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 20:29:53,359 - 11_March_Maven -INFO - Username entered
+2023-07-22 20:29:53,454 - 11_March_Maven -INFO - Password entered
+2023-07-22 20:29:53,891 - 11_March_Maven -INFO - Click on the Login button
+2023-07-22 20:31:19,320 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:31:19,454 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:31:21,013 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:32:49,885 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:32:50,037 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:32:51,523 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:32:53,909 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 20:32:54,031 - 11_March_Maven -INFO - Username entered
+2023-07-22 20:32:54,134 - 11_March_Maven -INFO - Password entered
+2023-07-22 20:32:54,570 - 11_March_Maven -INFO - Click on the Login button
+2023-07-22 20:33:46,018 - 11_March_Maven -INFO - Open browser
+2023-07-22 20:33:46,150 - 11_March_Maven -INFO - maximize browser 
+2023-07-22 20:33:47,633 - 11_March_Maven -INFO - Open Application
+2023-07-22 20:33:49,972 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-22 20:33:50,096 - 11_March_Maven -INFO - Username entered
+2023-07-22 20:33:50,193 - 11_March_Maven -INFO - Password entered
+2023-07-22 20:33:50,666 - 11_March_Maven -INFO - Click on the Login button
+2023-07-25 13:56:12,174 - 11_March_Maven -INFO - Open browser
+2023-07-25 13:56:12,318 - 11_March_Maven -INFO - maximize browser 
+2023-07-25 13:56:14,203 - 11_March_Maven -INFO - Open Application
+2023-07-25 13:56:16,705 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-25 13:56:16,883 - 11_March_Maven -INFO - Username entered
+2023-07-25 13:56:17,052 - 11_March_Maven -INFO - Password entered
+2023-07-25 13:56:17,542 - 11_March_Maven -INFO - Click on the Login button
+2023-07-25 14:15:02,323 - 11_March_Maven -INFO - Open browser
+2023-07-25 14:15:02,462 - 11_March_Maven -INFO - maximize browser 
+2023-07-25 14:15:03,948 - 11_March_Maven -INFO - Open Application
+2023-07-25 14:15:05,470 - 11_March_Maven -INFO - Hit on the login tab
+2023-07-25 14:15:05,623 - 11_March_Maven -INFO - Username entered
+2023-07-25 14:15:05,714 - 11_March_Maven -INFO - Password entered
+2023-07-25 14:15:06,164 - 11_March_Maven -INFO - Click on the Login button
